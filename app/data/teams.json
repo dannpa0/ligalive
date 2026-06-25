@@ -1,0 +1,222 @@
+[
+  {
+    "id": "t1",
+    "slug": "arsenal",
+    "name": "Arsenal",
+    "shortName": "Arsenal",
+    "abbr": "ARS",
+    "leagueId": "l1",
+    "color": "#EF0107",
+    "founded": 1886,
+    "stadium": "Emirates Stadium"
+  },
+  {
+    "id": "t2",
+    "slug": "chelsea",
+    "name": "Chelsea",
+    "shortName": "Chelsea",
+    "abbr": "CHE",
+    "leagueId": "l1",
+    "color": "#034694",
+    "founded": 1905,
+    "stadium": "Stamford Bridge"
+  },
+  {
+    "id": "t3",
+    "slug": "manchester-city",
+    "name": "Manchester City",
+    "shortName": "Man City",
+    "abbr": "MCI",
+    "leagueId": "l1",
+    "color": "#6CABDD",
+    "founded": 1880,
+    "stadium": "Etihad Stadium"
+  },
+  {
+    "id": "t4",
+    "slug": "liverpool",
+    "name": "Liverpool",
+    "shortName": "Liverpool",
+    "abbr": "LIV",
+    "leagueId": "l1",
+    "color": "#C8102E",
+    "founded": 1892,
+    "stadium": "Anfield"
+  },
+  {
+    "id": "t5",
+    "slug": "barcelona",
+    "name": "Barcelona",
+    "shortName": "Barça",
+    "abbr": "BAR",
+    "leagueId": "l2",
+    "color": "#A50044",
+    "founded": 1899,
+    "stadium": "Spotify Camp Nou"
+  },
+  {
+    "id": "t6",
+    "slug": "real-madrid",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid",
+    "abbr": "RMA",
+    "leagueId": "l2",
+    "color": "#00529F",
+    "founded": 1902,
+    "stadium": "Santiago Bernabéu"
+  },
+  {
+    "id": "t7",
+    "slug": "atl-tico-madrid",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético",
+    "abbr": "ATM",
+    "leagueId": "l2",
+    "color": "#CB3524",
+    "founded": 1903,
+    "stadium": "Metropolitano"
+  },
+  {
+    "id": "t8",
+    "slug": "sevilla",
+    "name": "Sevilla",
+    "shortName": "Sevilla",
+    "abbr": "SEV",
+    "leagueId": "l2",
+    "color": "#D80027",
+    "founded": 1890,
+    "stadium": "Ramón Sánchez-Pizjuán"
+  },
+  {
+    "id": "t9",
+    "slug": "juventus",
+    "name": "Juventus",
+    "shortName": "Juventus",
+    "abbr": "JUV",
+    "leagueId": "l3",
+    "color": "#1F2933",
+    "founded": 1897,
+    "stadium": "Allianz Stadium"
+  },
+  {
+    "id": "t10",
+    "slug": "inter",
+    "name": "Inter",
+    "shortName": "Inter",
+    "abbr": "INT",
+    "leagueId": "l3",
+    "color": "#0068A8",
+    "founded": 1908,
+    "stadium": "San Siro"
+  },
+  {
+    "id": "t11",
+    "slug": "ac-milan",
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "abbr": "MIL",
+    "leagueId": "l3",
+    "color": "#FB090B",
+    "founded": 1899,
+    "stadium": "San Siro"
+  },
+  {
+    "id": "t12",
+    "slug": "napoli",
+    "name": "Napoli",
+    "shortName": "Napoli",
+    "abbr": "NAP",
+    "leagueId": "l3",
+    "color": "#12A0D7",
+    "founded": 1926,
+    "stadium": "Diego A. Maradona"
+  },
+  {
+    "id": "t13",
+    "slug": "bayern-munich",
+    "name": "Bayern Munich",
+    "shortName": "Bayern",
+    "abbr": "BAY",
+    "leagueId": "l4",
+    "color": "#DC052D",
+    "founded": 1900,
+    "stadium": "Allianz Arena"
+  },
+  {
+    "id": "t14",
+    "slug": "borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "shortName": "Dortmund",
+    "abbr": "DOR",
+    "leagueId": "l4",
+    "color": "#FDE100",
+    "founded": 1909,
+    "stadium": "Signal Iduna Park"
+  },
+  {
+    "id": "t15",
+    "slug": "rb-leipzig",
+    "name": "RB Leipzig",
+    "shortName": "Leipzig",
+    "abbr": "RBL",
+    "leagueId": "l4",
+    "color": "#DD0741",
+    "founded": 2009,
+    "stadium": "Red Bull Arena"
+  },
+  {
+    "id": "t16",
+    "slug": "bayer-leverkusen",
+    "name": "Bayer Leverkusen",
+    "shortName": "Leverkusen",
+    "abbr": "LEV",
+    "leagueId": "l4",
+    "color": "#E32221",
+    "founded": 1904,
+    "stadium": "BayArena"
+  },
+  {
+    "id": "t17",
+    "slug": "persib-bandung",
+    "name": "Persib Bandung",
+    "shortName": "Persib",
+    "abbr": "PSB",
+    "leagueId": "l5",
+    "color": "#1B458F",
+    "founded": 1933,
+    "stadium": "Si Jalak Harupat"
+  },
+  {
+    "id": "t18",
+    "slug": "persija-jakarta",
+    "name": "Persija Jakarta",
+    "shortName": "Persija",
+    "abbr": "PSJ",
+    "leagueId": "l5",
+    "color": "#E1241B",
+    "founded": 1928,
+    "stadium": "Jakarta Int’l Stadium"
+  },
+  {
+    "id": "t19",
+    "slug": "bali-united",
+    "name": "Bali United",
+    "shortName": "Bali Utd",
+    "abbr": "BAL",
+    "leagueId": "l5",
+    "color": "#C8102E",
+    "founded": 2014,
+    "stadium": "Kapten I Wayan Dipta"
+  },
+  {
+    "id": "t20",
+    "slug": "psm-makassar",
+    "name": "PSM Makassar",
+    "shortName": "PSM",
+    "abbr": "PSM",
+    "leagueId": "l5",
+    "color": "#D32F2F",
+    "founded": 1915,
+    "stadium": "Batakan"
+  }
+]

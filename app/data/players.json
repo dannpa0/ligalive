@@ -1,0 +1,502 @@
+[
+  {
+    "id": "p1",
+    "name": "Bukayo Saka",
+    "teamId": "t1",
+    "position": "RW",
+    "goals": 18,
+    "assists": 11,
+    "appearances": 28,
+    "number": 23
+  },
+  {
+    "id": "p2",
+    "name": "Kai Havertz",
+    "teamId": "t1",
+    "position": "ST",
+    "goals": 14,
+    "assists": 5,
+    "appearances": 30,
+    "number": 11
+  },
+  {
+    "id": "p3",
+    "name": "Martin Ødegaard",
+    "teamId": "t1",
+    "position": "CAM",
+    "goals": 9,
+    "assists": 12,
+    "appearances": 29,
+    "number": 27
+  },
+  {
+    "id": "p4",
+    "name": "Cole Palmer",
+    "teamId": "t2",
+    "position": "CAM",
+    "goals": 21,
+    "assists": 9,
+    "appearances": 26,
+    "number": 29
+  },
+  {
+    "id": "p5",
+    "name": "Nicolas Jackson",
+    "teamId": "t2",
+    "position": "ST",
+    "goals": 13,
+    "assists": 4,
+    "appearances": 26,
+    "number": 21
+  },
+  {
+    "id": "p6",
+    "name": "Erling Haaland",
+    "teamId": "t3",
+    "position": "ST",
+    "goals": 27,
+    "assists": 6,
+    "appearances": 30,
+    "number": 8
+  },
+  {
+    "id": "p7",
+    "name": "Phil Foden",
+    "teamId": "t3",
+    "position": "CAM",
+    "goals": 12,
+    "assists": 8,
+    "appearances": 30,
+    "number": 13
+  },
+  {
+    "id": "p8",
+    "name": "Bernardo Silva",
+    "teamId": "t3",
+    "position": "CM",
+    "goals": 7,
+    "assists": 10,
+    "appearances": 34,
+    "number": 23
+  },
+  {
+    "id": "p9",
+    "name": "Mohamed Salah",
+    "teamId": "t4",
+    "position": "RW",
+    "goals": 24,
+    "assists": 13,
+    "appearances": 25,
+    "number": 14
+  },
+  {
+    "id": "p10",
+    "name": "Luis Díaz",
+    "teamId": "t4",
+    "position": "LW",
+    "goals": 11,
+    "assists": 6,
+    "appearances": 25,
+    "number": 18
+  },
+  {
+    "id": "p11",
+    "name": "Robert Lewandowski",
+    "teamId": "t5",
+    "position": "ST",
+    "goals": 22,
+    "assists": 4,
+    "appearances": 31,
+    "number": 21
+  },
+  {
+    "id": "p12",
+    "name": "Lamine Yamal",
+    "teamId": "t5",
+    "position": "RW",
+    "goals": 12,
+    "assists": 14,
+    "appearances": 31,
+    "number": 22
+  },
+  {
+    "id": "p13",
+    "name": "Raphinha",
+    "teamId": "t5",
+    "position": "LW",
+    "goals": 15,
+    "assists": 9,
+    "appearances": 29,
+    "number": 19
+  },
+  {
+    "id": "p14",
+    "name": "Kylian Mbappé",
+    "teamId": "t6",
+    "position": "ST",
+    "goals": 26,
+    "assists": 7,
+    "appearances": 33,
+    "number": 27
+  },
+  {
+    "id": "p15",
+    "name": "Jude Bellingham",
+    "teamId": "t6",
+    "position": "CAM",
+    "goals": 16,
+    "assists": 10,
+    "appearances": 27,
+    "number": 21
+  },
+  {
+    "id": "p16",
+    "name": "Vinícius Júnior",
+    "teamId": "t6",
+    "position": "LW",
+    "goals": 17,
+    "assists": 11,
+    "appearances": 27,
+    "number": 27
+  },
+  {
+    "id": "p17",
+    "name": "Antoine Griezmann",
+    "teamId": "t7",
+    "position": "ST",
+    "goals": 15,
+    "assists": 8,
+    "appearances": 29,
+    "number": 29
+  },
+  {
+    "id": "p18",
+    "name": "Julián Álvarez",
+    "teamId": "t7",
+    "position": "ST",
+    "goals": 13,
+    "assists": 6,
+    "appearances": 24,
+    "number": 18
+  },
+  {
+    "id": "p19",
+    "name": "Dodi Lukébakio",
+    "teamId": "t8",
+    "position": "RW",
+    "goals": 10,
+    "assists": 5,
+    "appearances": 28,
+    "number": 10
+  },
+  {
+    "id": "p20",
+    "name": "Isaac Romero",
+    "teamId": "t8",
+    "position": "ST",
+    "goals": 9,
+    "assists": 3,
+    "appearances": 25,
+    "number": 18
+  },
+  {
+    "id": "p21",
+    "name": "Dušan Vlahović",
+    "teamId": "t9",
+    "position": "ST",
+    "goals": 16,
+    "assists": 3,
+    "appearances": 24,
+    "number": 17
+  },
+  {
+    "id": "p22",
+    "name": "Kenan Yıldız",
+    "teamId": "t9",
+    "position": "LW",
+    "goals": 8,
+    "assists": 7,
+    "appearances": 34,
+    "number": 30
+  },
+  {
+    "id": "p23",
+    "name": "Lautaro Martínez",
+    "teamId": "t10",
+    "position": "ST",
+    "goals": 19,
+    "assists": 6,
+    "appearances": 33,
+    "number": 20
+  },
+  {
+    "id": "p24",
+    "name": "Marcus Thuram",
+    "teamId": "t10",
+    "position": "ST",
+    "goals": 13,
+    "assists": 9,
+    "appearances": 27,
+    "number": 30
+  },
+  {
+    "id": "p25",
+    "name": "Rafael Leão",
+    "teamId": "t11",
+    "position": "LW",
+    "goals": 12,
+    "assists": 8,
+    "appearances": 33,
+    "number": 8
+  },
+  {
+    "id": "p26",
+    "name": "Christian Pulisic",
+    "teamId": "t11",
+    "position": "RW",
+    "goals": 11,
+    "assists": 10,
+    "appearances": 25,
+    "number": 29
+  },
+  {
+    "id": "p27",
+    "name": "Romelu Lukaku",
+    "teamId": "t12",
+    "position": "ST",
+    "goals": 14,
+    "assists": 5,
+    "appearances": 24,
+    "number": 20
+  },
+  {
+    "id": "p28",
+    "name": "Khvicha Kvaratskhelia",
+    "teamId": "t12",
+    "position": "LW",
+    "goals": 11,
+    "assists": 9,
+    "appearances": 26,
+    "number": 9
+  },
+  {
+    "id": "p29",
+    "name": "Harry Kane",
+    "teamId": "t13",
+    "position": "ST",
+    "goals": 28,
+    "assists": 9,
+    "appearances": 25,
+    "number": 19
+  },
+  {
+    "id": "p30",
+    "name": "Jamal Musiala",
+    "teamId": "t13",
+    "position": "CAM",
+    "goals": 13,
+    "assists": 11,
+    "appearances": 26,
+    "number": 20
+  },
+  {
+    "id": "p31",
+    "name": "Michael Olise",
+    "teamId": "t13",
+    "position": "RW",
+    "goals": 12,
+    "assists": 10,
+    "appearances": 31,
+    "number": 28
+  },
+  {
+    "id": "p32",
+    "name": "Serhou Guirassy",
+    "teamId": "t14",
+    "position": "ST",
+    "goals": 20,
+    "assists": 4,
+    "appearances": 27,
+    "number": 20
+  },
+  {
+    "id": "p33",
+    "name": "Karim Adeyemi",
+    "teamId": "t14",
+    "position": "RW",
+    "goals": 9,
+    "assists": 6,
+    "appearances": 31,
+    "number": 10
+  },
+  {
+    "id": "p34",
+    "name": "Loïs Openda",
+    "teamId": "t15",
+    "position": "ST",
+    "goals": 17,
+    "assists": 5,
+    "appearances": 30,
+    "number": 10
+  },
+  {
+    "id": "p35",
+    "name": "Benjamin Šeško",
+    "teamId": "t15",
+    "position": "ST",
+    "goals": 14,
+    "assists": 4,
+    "appearances": 24,
+    "number": 8
+  },
+  {
+    "id": "p36",
+    "name": "Florian Wirtz",
+    "teamId": "t16",
+    "position": "CAM",
+    "goals": 15,
+    "assists": 13,
+    "appearances": 29,
+    "number": 7
+  },
+  {
+    "id": "p37",
+    "name": "Victor Boniface",
+    "teamId": "t16",
+    "position": "ST",
+    "goals": 13,
+    "assists": 5,
+    "appearances": 31,
+    "number": 25
+  },
+  {
+    "id": "p38",
+    "name": "David da Silva",
+    "teamId": "t17",
+    "position": "ST",
+    "goals": 16,
+    "assists": 4,
+    "appearances": 33,
+    "number": 14
+  },
+  {
+    "id": "p39",
+    "name": "Ciro Alves",
+    "teamId": "t17",
+    "position": "RW",
+    "goals": 9,
+    "assists": 7,
+    "appearances": 30,
+    "number": 18
+  },
+  {
+    "id": "p40",
+    "name": "Marko Šimić",
+    "teamId": "t18",
+    "position": "ST",
+    "goals": 14,
+    "assists": 3,
+    "appearances": 33,
+    "number": 17
+  },
+  {
+    "id": "p41",
+    "name": "Witan Sulaeman",
+    "teamId": "t18",
+    "position": "LW",
+    "goals": 8,
+    "assists": 6,
+    "appearances": 27,
+    "number": 25
+  },
+  {
+    "id": "p42",
+    "name": "Privat Mbarga",
+    "teamId": "t19",
+    "position": "ST",
+    "goals": 12,
+    "assists": 4,
+    "appearances": 30,
+    "number": 30
+  },
+  {
+    "id": "p43",
+    "name": "Stefano Lilipaly",
+    "teamId": "t19",
+    "position": "CAM",
+    "goals": 6,
+    "assists": 9,
+    "appearances": 29,
+    "number": 19
+  },
+  {
+    "id": "p44",
+    "name": "Kenzo Nambu",
+    "teamId": "t20",
+    "position": "CAM",
+    "goals": 10,
+    "assists": 8,
+    "appearances": 24,
+    "number": 16
+  },
+  {
+    "id": "p45",
+    "name": "Yance Sayuri",
+    "teamId": "t20",
+    "position": "RW",
+    "goals": 9,
+    "assists": 5,
+    "appearances": 24,
+    "number": 10
+  },
+  {
+    "id": "p46",
+    "name": "Gabriel Martinelli",
+    "teamId": "t1",
+    "position": "LW",
+    "goals": 8,
+    "assists": 6,
+    "appearances": 29,
+    "number": 26
+  },
+  {
+    "id": "p47",
+    "name": "Dominik Szoboszlai",
+    "teamId": "t4",
+    "position": "CM",
+    "goals": 6,
+    "assists": 8,
+    "appearances": 30,
+    "number": 13
+  },
+  {
+    "id": "p48",
+    "name": "Rúben Dias",
+    "teamId": "t3",
+    "position": "CB",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 31,
+    "number": 13
+  },
+  {
+    "id": "p49",
+    "name": "Pedri",
+    "teamId": "t5",
+    "position": "CM",
+    "goals": 5,
+    "assists": 7,
+    "appearances": 30,
+    "number": 26
+  },
+  {
+    "id": "p50",
+    "name": "Nicolò Barella",
+    "teamId": "t10",
+    "position": "CM",
+    "goals": 6,
+    "assists": 9,
+    "appearances": 30,
+    "number": 17
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "l1",
+    "slug": "premier-league",
+    "name": "Premier League",
+    "country": "England",
+    "countryCode": "GB",
+    "season": "2025/26",
+    "color": "#3D195B",
+    "teamCount": 4
+  },
+  {
+    "id": "l2",
+    "slug": "la-liga",
+    "name": "La Liga",
+    "country": "Spain",
+    "countryCode": "ES",
+    "season": "2025/26",
+    "color": "#EE8707",
+    "teamCount": 4
+  },
+  {
+    "id": "l3",
+    "slug": "serie-a",
+    "name": "Serie A",
+    "country": "Italy",
+    "countryCode": "IT",
+    "season": "2025/26",
+    "color": "#0B5BA0",
+    "teamCount": 4
+  },
+  {
+    "id": "l4",
+    "slug": "bundesliga",
+    "name": "Bundesliga",
+    "country": "Germany",
+    "countryCode": "DE",
+    "season": "2025/26",
+    "color": "#D20515",
+    "teamCount": 4
+  },
+  {
+    "id": "l5",
+    "slug": "liga-1",
+    "name": "Liga 1 Indonesia",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "season": "2025/26",
+    "color": "#C8102E",
+    "teamCount": 4
+  }
+]
