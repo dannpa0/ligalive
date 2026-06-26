@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     plugins: [tailwindcss()],
   },
   app: {
-    buildAssetsDir: '/_nuxt/ligalive/',
+    baseURL: '/ligalive/',
     pageTransition: { name: 'page', mode: 'out-in' },
     head: {
       htmlAttrs: { lang: 'en', class: 'dark' },
