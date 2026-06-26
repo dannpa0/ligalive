@@ -12,7 +12,6 @@ export default defineNuxtConfig({
     plugins: [tailwindcss()],
   },
   app: {
-    baseURL: '/',
     pageTransition: { name: 'page', mode: 'out-in' },
     head: {
       htmlAttrs: { lang: 'en', class: 'dark' },
