@@ -11,8 +11,8 @@ export default defineNuxtConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-
   app: {
+    buildAssetsDir: '/_nuxt/ligalive/',
     pageTransition: { name: 'page', mode: 'out-in' },
     head: {
       htmlAttrs: { lang: 'en', class: 'dark' },
